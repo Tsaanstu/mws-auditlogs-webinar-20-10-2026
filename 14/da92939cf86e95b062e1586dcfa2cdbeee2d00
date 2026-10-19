@@ -1,0 +1,33 @@
+README.md
+  h_074865716ba246 1-16
+  s_39b8a4c7e8c968::t_a8fd7f8cf8c3e4 17
+vector-configuration.sh
+  h_074865716ba246 1-51
+install-vector.sh
+  s_39b8a4c7e8c968::t_116302b8ee1475 1-11
+install-wazuh.sh
+  s_39b8a4c7e8c968::t_7518adcf3e0345 1-13
+wazuh-rule.sh
+  s_39b8a4c7e8c968::t_094e185d7423a7 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "14da92939cf86e95b062e1586dcfa2cdbeee2d00",
+  "prompts": {},
+  "humans": {
+    "h_074865716ba246": {
+      "author": "Vladimir Atasunts <atasunts.vladimir@yandex.ru>"
+    }
+  },
+  "sessions": {
+    "s_39b8a4c7e8c968": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a153d1-62b5-74d3-80ed-5dfac02533f3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Vladimir Atasunts <atasunts.vladimir@yandex.ru>"
+    }
+  }
+}
